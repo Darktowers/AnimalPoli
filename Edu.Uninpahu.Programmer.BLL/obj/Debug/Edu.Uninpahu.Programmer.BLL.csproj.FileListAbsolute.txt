@@ -1,0 +1,4 @@
+C:\Users\Estudiantes\Documents\Visual Studio 2010\Projects\Solution1\Edu.Uninpahu.Programmer.BLL\bin\Debug\Edu.Uninpahu.Programmer.BLL.dll
+C:\Users\Estudiantes\Documents\Visual Studio 2010\Projects\Solution1\Edu.Uninpahu.Programmer.BLL\bin\Debug\Edu.Uninpahu.Programmer.BLL.pdb
+C:\Users\Estudiantes\Documents\Visual Studio 2010\Projects\Solution1\Edu.Uninpahu.Programmer.BLL\obj\Debug\Edu.Uninpahu.Programmer.BLL.dll
+C:\Users\Estudiantes\Documents\Visual Studio 2010\Projects\Solution1\Edu.Uninpahu.Programmer.BLL\obj\Debug\Edu.Uninpahu.Programmer.BLL.pdb

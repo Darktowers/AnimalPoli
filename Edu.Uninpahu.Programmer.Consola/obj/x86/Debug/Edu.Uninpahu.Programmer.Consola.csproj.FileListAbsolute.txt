@@ -1,0 +1,7 @@
+C:\Users\Estudiantes\Documents\Visual Studio 2010\Projects\Solution1\Edu.Uninpahu.Programmer.Consola\bin\Debug\Edu.Uninpahu.Programmer.Consola.exe
+C:\Users\Estudiantes\Documents\Visual Studio 2010\Projects\Solution1\Edu.Uninpahu.Programmer.Consola\bin\Debug\Edu.Uninpahu.Programmer.Consola.pdb
+C:\Users\Estudiantes\Documents\Visual Studio 2010\Projects\Solution1\Edu.Uninpahu.Programmer.Consola\bin\Debug\Edu.Uninpahu.Programmer.BLL.dll
+C:\Users\Estudiantes\Documents\Visual Studio 2010\Projects\Solution1\Edu.Uninpahu.Programmer.Consola\bin\Debug\Edu.Uninpahu.Programmer.BLL.pdb
+C:\Users\Estudiantes\Documents\Visual Studio 2010\Projects\Solution1\Edu.Uninpahu.Programmer.Consola\obj\x86\Debug\Edu.Uninpahu.Programmer.Consola.csprojResolveAssemblyReference.cache
+C:\Users\Estudiantes\Documents\Visual Studio 2010\Projects\Solution1\Edu.Uninpahu.Programmer.Consola\obj\x86\Debug\Edu.Uninpahu.Programmer.Consola.exe
+C:\Users\Estudiantes\Documents\Visual Studio 2010\Projects\Solution1\Edu.Uninpahu.Programmer.Consola\obj\x86\Debug\Edu.Uninpahu.Programmer.Consola.pdb
